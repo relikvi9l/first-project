@@ -30,7 +30,7 @@
 | 📄 Спецификация             | [Задание FinSmart.pdf](docs/Задание%20FinSmart.pdf) |
 | 🧩 Use Case диаграмма       | ![Use Case](diagrams/Use%20Case.png)   |
 | 🔁 Sequence диаграмма       | ![Sequence](diagrams/Squence.png)      |
-| ⚙️ BPMN диаграмма            | ![BPMN](diagrams/BPMN.png)             |
+| ⚙️ BPMN диаграмма            | ![BPMN](FinSmart-AutoReports/diagrams/BPMN.png)             |
 
 ---
 
