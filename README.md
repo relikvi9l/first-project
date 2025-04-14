@@ -27,8 +27,8 @@
 
 | Артефакт                    | Файл                                    |
 |-----------------------------|-----------------------------------------|
-| 📄 Спецификация             | [Задание FinSmart.pdf](FinSmart-AutoReports/docs/Задание FinSmart.pdf) |
-| 🧩 Use Case диаграмма       | ![Use Case](FinSmart-AutoReports/diagrams/Use Case.png)   |
+| 📄 Спецификация             | [Задание FinSmart.pdf](FinSmart-AutoReports/docs/Задание%20FinSmart.pdf) |
+| 🧩 Use Case диаграмма       | ![Use Case](FinSmart-AutoReports/diagrams/Use%20Case.png)   |
 | 🔁 Sequence диаграмма       | ![Sequence](FinSmart-AutoReports/diagrams/Squence.png)      |
 | ⚙️ BPMN диаграмма            | ![BPMN](FinSmart-AutoReports/diagrams/BPMN.png)             |
 
